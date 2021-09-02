@@ -1,3 +1,3 @@
-Projeto de formação HTML5+CSS3 - ALURA
+Projeto ALURA - HTML5 + CSS3
 
 https://gustavocrs.github.io/barbearia-alura
