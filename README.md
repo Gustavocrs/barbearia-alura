@@ -15,4 +15,4 @@
 <p><h3>Autor</h3> Gustavo Silva</p>
 
 <h3>Imagens do projeto</h3>
-<img alt="Imagem do projeto" src="./images/"/>
+Ainda não disponível
